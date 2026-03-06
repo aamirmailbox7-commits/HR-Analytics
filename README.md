@@ -62,10 +62,10 @@ Data reveals a **$3,000 average salary gap** between male ($70.8K) and female ($
 
 ### Workforce Overview
 
-![Workforce Overview](pic 1.PNG)
+![Workforce Overview](pic%201.PNG)
 
 
 
 ### Retention & Risk Analysis
 
-![Retention & Risk Analysis](pic 2.PNG)
+![Retention & Risk Analysis](pic%202.PNG)
